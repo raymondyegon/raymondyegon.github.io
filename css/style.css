@@ -4,9 +4,13 @@ body {
   color: white;
   margin: 10px;
   background-image: url(../images/main.jpg);
-  image-resolution: snap;
   background-color: black;
   background-size: cover;
+}
+nav ul{
+  display: flex;
+  list-style-type: none;
+  justify-content:space-around;
 }
 .back-ground {
   text-align: center;
@@ -23,11 +27,11 @@ body {
   flex: auto;
   color: white;
 }
-nav ul{
-  display: flex;
-  list-style-type: none;
-  justify-content:space-around;
-}
 #link{
   color: #66FF33 ;
+}
+.body {
+  height: 100vh;
+  width: 5vw;
+  display: flex;
 }

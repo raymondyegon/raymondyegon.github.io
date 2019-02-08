@@ -1,0 +1,26 @@
+body {
+  font-family: 'Belleza', sans-serif;
+  font-size: 25px;
+  color:  #2c0be8;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-image: url(../images/pro.jpg);
+  background-size: cover;
+  position: fixed;
+  height:100vh;
+  text-align: center;
+
+}
+.projects {
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: 0 1px 0 black;
+  font-weight: 700px;
+}
+span {
+  text-decoration: underline;
+  color: #ef1215 ;
+}
+#link{
+  color: #66FF33 ;
+}
