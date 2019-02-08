@@ -1,7 +1,33 @@
-nav ul {
+body {
+  font-family: 'Belleza', sans-serif;
+  font-size: 25px;
+  color: white;
+  margin: 10px;
+  background-image: url(../images/main.jpg);
+  image-resolution: snap;
+  background-color: black;
+  background-size: cover;
+}
+.back-ground {
+  text-align: center;
+}
+.back-ground h2{
+  text-align: center;
+}
+.bar > *{
+  padding: 10px;
+  font-size: 25px;
+  border: 2px solid red;
+}
+.bar .menu {
+  flex: auto;
+  color: white;
+}
+nav ul{
   display: flex;
   list-style-type: none;
+  justify-content:space-around;
 }
-nav li {
-  flex: auto;
+#link{
+  color: #66FF33 ;
 }
