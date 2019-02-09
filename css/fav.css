@@ -1,0 +1,9 @@
+@media screen and (max-width: 480px) {
+  body {
+    background-color: lightblue;
+    color: black;
+  }
+}
+* {
+  box-sizing: border-box;
+}
