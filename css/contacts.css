@@ -12,4 +12,5 @@ body {
   background-image: url(../images/code.jpg);
   background-size: contain;
   background-attachment: scroll;
+  opacity: 20;
 }

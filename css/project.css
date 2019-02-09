@@ -1,16 +1,35 @@
+@media screen and (max-width: 480px) {
+  body {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+  }
+}
+* {
+  box-sizing: border-box;
+  font-family: 'Belleza', sans-serif;
+}
+header {
+  position: fixed;
+  margin: auto;
+  padding: 15px;
+  background-color: lightblue;
+  text-transform: capitalize;
+}
 body {
   font-family: 'Belleza', sans-serif;
   font-size: 25px;
   color: solid white;
-  margin-left: 25%;
-  margin-right: 25%;
   background-image: url(../images/pro.jpg);
   background-attachment: fixed;
   background-size: cover;
   height:100vh;
   text-align: center;
-  opacity: 5;
-
+  opacity: 100;
+}
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
 }
 .projects {
   text-align: center;
