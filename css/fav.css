@@ -2,8 +2,28 @@
   body {
     background-color: lightblue;
     color: black;
+    text-align: center;
   }
 }
 * {
   box-sizing: border-box;
+}
+pre {
+  text-transform: capitalize;
+}
+header{
+  text-align: center;
+  margin:auto;
+  background-color: skyblue;
+  bottom: 20px;
+}
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  border:
+}
+h3 {
+  text-align: center;
+  text-transform: capitalize;
+  color: #66FF66;
 }
