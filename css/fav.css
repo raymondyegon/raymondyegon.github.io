@@ -20,6 +20,11 @@ header{
   padding: 15px;
   position: fixed;
 }
+body {
+  background-image: url(../images/m2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
 .container {
   margin-left: 20%;
   margin-right: 20%;
