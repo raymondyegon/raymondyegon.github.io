@@ -9,6 +9,7 @@ body {
   background-image: url(../images/me.jpg);
   background-size: cover;
   background-blend-mode: darken;
+  background-color: gray;
   background-attachment: fixed;
 }
 header {

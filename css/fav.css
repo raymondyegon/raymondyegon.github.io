@@ -23,6 +23,8 @@ header{
 body {
   background-image: url(../images/m2.jpg);
   background-attachment: fixed;
+  background-blend-mode: soft-light;
+  background-color: gray;
   background-size: cover;
 }
 .container {

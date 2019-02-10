@@ -22,8 +22,12 @@ body {
   background-image: url(../images/pro.jpg);
   background-attachment: fixed;
   background-size: cover;
-  background-blend-mode: darken;
+  background-blend-mode: soft-light;
+  background-color: gray;
   height:100vh;
+}
+h1 {
+  text-align: center;
 }
 .container {
   font-size: 25px;
