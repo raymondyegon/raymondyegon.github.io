@@ -1,4 +1,4 @@
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 300px) {
   body {
     background-color: black;
     color: white;
@@ -15,10 +15,8 @@ body {
   padding-left: 15%;
   padding-right: 15%;
 }
-nav ul{
-  display: flex;
-  list-style-type: none;
-  justify-content:space-around;
+nav {
+  font-style: oblique;
 }
 .back-ground {
   text-align: center;
@@ -26,14 +24,16 @@ nav ul{
 .back-ground h2{
   text-align: center;
 }
+.bar {
+  margin-top: 0px;
+}
 .bar > *{
   padding: 10px;
   font-size: 25px;
   border: 2px solid red;
 }
-.bar .menu {
-  flex: auto;
-  color: white;
+.menu {
+  word-spacing: 30px;
 }
 #link{
   color: #66FF33 ;
