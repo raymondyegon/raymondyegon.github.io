@@ -1,0 +1,30 @@
+@media screen and (max-width:400px) {
+  body {
+    background-color: skyblue;
+    color: black;
+  }
+}
+body {
+  font-family: 'Belleza', sans-serif;
+  background-image: url(../images/me.jpg);
+  background-size: cover;
+  background-blend-mode: darken;
+  background-attachment: fixed;
+}
+header {
+  margin: auto;
+  position: fixed;
+  background-color: skyblue;
+  padding: 15px;
+}
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 20px;
+  font-size: 25px;
+  color: white;
+  opacity: 3;
+}
+#link {
+  color: #66FF33;
+}
