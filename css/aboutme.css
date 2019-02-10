@@ -25,6 +25,12 @@ header {
   color: white;
   opacity: 3;
 }
+h3 {
+  text-align: center;
+  color: #ff0033;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
 #link {
   color: #66FF33;
 }
