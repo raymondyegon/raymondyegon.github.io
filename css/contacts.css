@@ -1,6 +1,6 @@
 body {
   background-color: skyblue;
-  color: #ffb300;
+  color:  #33FF99;
 }
 .body {
   font-size: 30px;
@@ -13,4 +13,7 @@ body {
   background-size: contain;
   background-attachment: scroll;
   opacity: 20;
+}
+a {
+  color: inherit;
 }
